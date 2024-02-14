@@ -1,3 +1,3 @@
 # JCalc - Projeto simples
 
-Projeto simples realizado para se acostumar com a sintaxe e lógica de Java.
+Projeto simples realizado para me acostumar com a sintaxe e lógica de Java.
